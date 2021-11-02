@@ -1,0 +1,7 @@
+.highlight {
+    background-color:aquamarine;
+}
+
+.navbar-style{
+    background-color: cadetblue !important; /*overrides default from bootstrap */
+}
